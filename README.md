@@ -6,3 +6,4 @@ list-seo
 - http://schema-ja.appspot.com/docs/gs.html
 - http://qiita.com/yuku_t/items/726a67d8ae74eea2540a
 - https://github.com/lassebunk/dynamic_sitemaps
+- https://developers.google.com/app-indexing/ (Google App Indexing)
